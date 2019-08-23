@@ -1,0 +1,1 @@
+Arquivo criado pelo nodejs e modificadoTeste de insercao de texto
